@@ -1,0 +1,57 @@
+[
+    {
+        "outputFile": "C:\\Users\\alb\\Desktop\\Coursera\\Semana3\\tarea\\MyApplication2\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "C:\\Users\\alb\\Desktop\\Coursera\\Semana3\\tarea\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 42,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "C:\\Users\\alb\\Desktop\\Coursera\\Semana3\\tarea\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 354,
+                        "endColumn": 42,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 156,
+                    "endColumn": 42,
+                    "endOffset": 194
+                },
+                "from": {
+                    "file": "C:\\Users\\alb\\Desktop\\Coursera\\Semana3\\tarea\\MyApplication2\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 42,
+                        "endOffset": 436
+                    }
+                }
+            }
+        ]
+    }
+]
